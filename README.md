@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xpwnstar
 - 👀 I’m interested in Rust and distributed systems.
-- 🌱 I’m currently learning golang and Rust.
+- 🌱 I’m currently learning golang and Rust. Writing a interpreteur and compiler in Rust.
 - 💞️ I’m looking to collaborate on blockchain protocols, linux distros.
 - 📫  Reach me chatna717@gmail.com
 
