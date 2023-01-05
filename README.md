@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0xpwnstar
-- 👀 I’m interested in Rust and distributed systems.
-- 🌱 I’m currently learning golang and Rust.
-- 💞️ I’m looking to collaborate on blockchain protocols, linux distros.
+- 👋 Hi, I’m Chaitanya
+- 👀 I’m interested in React and backend development.
+- 💞️ I’m looking to collaborate on building user interfaces.
 - 📫  Reach me chatna717@gmail.com
 
 <!---
