@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Chaitanya
-- 👀 I’m interested in React and backend development.
-- 💞️ I’m looking to collaborate on building user interfaces.
+=
 - 📫  Reach me chatna717@gmail.com
 
 <!---
